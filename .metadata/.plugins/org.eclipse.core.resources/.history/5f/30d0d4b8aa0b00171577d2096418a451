@@ -21,7 +21,6 @@ public class MainActivity extends ActionBarActivity {
         tv1.setText("hello from github, and kw. ");
         TextView tv2 = new TextView(this);
         tv2.setText("let say i add one line of code here ");
-        //ok let say i add a comment here
         
         ll1.addView(tv1);
         
